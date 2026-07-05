@@ -23,6 +23,10 @@ The project combines CrewAI agents, GPT-4o mini, sentence-transformer subject di
 6. The Plan Optimizer revises the schedule using the critic feedback.
 7. The evaluation logic parses the final plan, scores it, and saves structured JSON artifacts.
 
+## Architecture Diagram
+
+![AI Study Planner Agents architecture](docs/images/study-planner-architecture.png)
+
 ## Agent Architecture
 
 | Agent | Responsibility |
