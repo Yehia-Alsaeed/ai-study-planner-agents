@@ -1,7 +1,1 @@
-crewai[litellm]
-crewai-tools
-sentence-transformers
-scikit-learn
-numpy
-torch
-tensorboard
+-e .

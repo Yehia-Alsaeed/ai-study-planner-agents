@@ -18,9 +18,16 @@ env/
 .ipynb_checkpoints/
 
 # Generated notebook outputs
+outputs/
 variation_outputs/
 tensorboard_logs/
 *.log
+
+# Test/build artifacts
+.pytest_cache/
+*.egg-info/
+build/
+dist/
 
 # OS files
 .DS_Store

@@ -1,0 +1,26 @@
+{
+  "start_day": 1,
+  "daily_available_hours": 4,
+  "subjects": [
+    {
+      "name": "NLP",
+      "difficulty": "hard",
+      "exam_day": 14
+    },
+    {
+      "name": "Deep Learning",
+      "difficulty": "hard",
+      "exam_day": 12
+    },
+    {
+      "name": "Security",
+      "difficulty": "medium",
+      "exam_day": 10
+    },
+    {
+      "name": "Database",
+      "difficulty": "medium",
+      "exam_day": 8
+    }
+  ]
+}
