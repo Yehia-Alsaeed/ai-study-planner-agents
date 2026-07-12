@@ -1,8 +1,8 @@
 # AI Study Planner Agents
 
-AI Study Planner Agents is a reusable Python project and demo notebook for generating personalized study schedules from subjects, exam dates, and available daily study hours.
+AI Study Planner Agents is a fully functional Python project for generating personalized study schedules from subjects, exam dates, and available daily study hours.
 
-The project combines CrewAI agents, GPT-4o mini, sentence-transformer subject difficulty classification, tool-augmented planning, safe arithmetic helpers, and structured evaluation artifacts. The notebook is a thin demo over the `study_planner` package, allowing the core logic to be tested, reused, and extended without copying notebook cells.
+The project combines CrewAI agents, GPT-4o mini, sentence-transformer subject difficulty classification, tool-augmented planning, safe arithmetic helpers, and structured evaluation artifacts. The included notebook serves as an interactive interface over the `study_planner` package, allowing the core logic to be executed, tested, and extended natively.
 
 ## Tech Stack & Core Skills
 
